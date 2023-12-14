@@ -1,4 +1,4 @@
-# C-Practice
+# Hcker Rank Practice
 
 
 # Maintainer : Kenedy Jacob
